@@ -1,7 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import AppHelmet from "../components/AppHelmet/AppHelmet";
-import { useSelector } from "react-redux";
 
 const Dashboard = () => {
     return (
