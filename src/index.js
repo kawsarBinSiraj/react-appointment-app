@@ -4,7 +4,6 @@ import App from "./App"
 import reportWebVitals from "./reportWebVitals"
 import ErrorBoundary from "./error-boundary/ErrorBoundary"
 import "./index.scss"
-require('dotenv').config();
 
 ReactDOM.render(
 	<React.Fragment>
